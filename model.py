@@ -83,7 +83,6 @@ if __name__ == "__main__":
 #         print(col)
 #         dealwith.append(col)
 # sniff(df[dealwith])
-# Jeffrey Epstein didn't kill himself lol
 
   df=pd.read_json('data/data.json')
   columns=['acct_type', 'approx_payout_date', 'body_length', 'channels', 'country',
